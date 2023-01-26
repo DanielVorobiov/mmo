@@ -41,5 +41,3 @@ for i in range(0, len(optimized_assignment)):
     print(A2[i][optimized_assignment[i]])
 
 print(f"Costul total este: {total_cost}")
-
-
